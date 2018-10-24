@@ -25,6 +25,20 @@ export default class Home extends Component {
               lives. Maybe he lives right in here. There we go{" "}
             </p>
           </Col>
+          <Col xs={12} sm={4} className="person-wrapper">
+            <Image src="assets/person-2.jpg" circle className="profile-pic" />
+            <p>
+              Take your time. Speed will come later. Decide where your cloud
+              lives. Maybe he lives right in here. There we go{" "}
+            </p>
+          </Col>
+          <Col xs={12} sm={4} className="person-wrapper">
+            <Image src="assets/person-3.jpg" circle className="profile-pic" />
+            <p>
+              Take your time. Speed will come later. Decide where your cloud
+              lives. Maybe he lives right in here. There we go{" "}
+            </p>
+          </Col>
         </Row>
       </Grid>
     );
