@@ -1,9 +1,10 @@
 {
-  "name": "react-bootstrap",
+  "name": "react-website",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "react": "^16.6.0",
+    "react-bootstrap": "^0.32.4",
     "react-dom": "^16.6.0",
     "react-scripts": "2.0.5"
   },
